@@ -1,6 +1,6 @@
-1. Study of header files with respect to socket programming. - [Link Here](https://docs.google.com/viewer?url=https://github.com/Drish-xD/practical/blob/main/CN%20%20file.pdf)
+1. Study of header files with respect to socket programming. - [Link Here](https://drish-xd.is-a.dev/practical/CN%20file.pdf)
 
-2. Study of Basic Functions of Socket Programming - [Link Here](https://docs.google.com/viewer?url=https://github.com/Drish-xD/practical/blob/main/CN%20%20file.pdf)
+2. Study of Basic Functions of Socket Programming - [Link Here](https://drish-xd.is-a.dev/practical/CN%20file.pdf)
 
 3. Simple TCP/IP Client Server Communication - [Link Here](./CN/3.TCP/)
 
